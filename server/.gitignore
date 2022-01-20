@@ -1,3 +1,3 @@
-/appbuild/*
+appbuild/
 
-/.idea/*
+.idea/
